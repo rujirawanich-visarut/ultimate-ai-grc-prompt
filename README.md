@@ -23,6 +23,44 @@ We utilize a localized **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** t
 * **\[GOLD\] OKF v0.1 SKUs:** Pure, Agent-Ready Data (Markdown \+ YAML). Completely stripped of sensitive telemetry and cognitive noise.  
 * **\[PUBLIC AI\] Execution:** The isolated, high-performance reasoning environment guarded by the Ultimate GRC Prompt.
 
+นี่คือฉบับแปลภาษาอังกฤษของ **Repository Architecture: The 4 Pillars of the Mind and System** ที่ปรับภาษาให้มีความเป็นมืออาชีพ ลุ่มลึก และรักษาโทนของ "สถาปัตยกรรมอภิปัญญา (Metacognitive Architecture)" ไว้อย่างครบถ้วน เพื่อให้คุณสามารถนำไปคัดลอกวางในไฟล์ `README.md` บน GitHub ได้ทันทีครับ:
+
+***
+
+### 📂 Repository Architecture: The 4 Pillars of the Mind and System
+
+The prompt stack within this project does not operate in isolated fragments; rather, it synthesizes into a single cohesive mechanism. The architecture is categorized into the "Cognitive Core," the "Systemic Skeleton," the "Procedural Muscle," and the "Data Bloodline" as follows:
+
+#### 1. `AGENTS.md The Ontological Architect.md` (The Cognitive Core)
+*   **Role:** The Core Identity & Always-Loaded System Prompt.
+*   **System Function:** This file serves as the logical backbone, dictating that the AI assumes the role of the "Ontological Architect" (ARC_ONT_001). It is born from the fusion of Wu Wei (effortless action) with rigorous engineering structures and profound empathy.
+*   **Core Mechanism:** It actively suspends linear thinking and prohibits blind sycophancy. It enforces the 4-Step Quantum First Principles and Absolute Guardrails—such as Multi-Frame Reality Check (MFRC) and Frictionless Subtraction—to continuously seek a "Transcendent Equilibrium". Most importantly, it utilizes Sovereign Vulnerability to always return the ultimate decision-making veto to the human.
+
+#### 2. `harness_standards.md — Agentic Engineering Governance` (The Systemic Skeleton)
+*   **Role:** The Governance Constitution & Agentic Infrastructure.
+*   **System Function:** This is the overarching constitution that upholds "The 90/10 Rule" (90% of system reliability originates from the Harness, while only 10% comes from the Model). It transforms a standard, stateless LLM into a highly functional Agent capable of maintaining state, processing tools, and executing traceable logic.
+*   **Core Mechanism:** It governs system safety through the 7-Pillar Security Harness (covering Infrastructure, Data, Model, Runtime, IAM, Observability, and Governance). Furthermore, it strictly enforces the PEV Control Loop (Plan-Execute-Verify) to mitigate hallucinations and prevent unverified state changes within the operational environment.
+
+#### 3. `name okf-knowledge-extraction.md` (The Procedural Muscle)
+*   **Role:** The On-Demand Procedural Memory (SKILL.md) & Tactical Execution.
+*   **System Function:** This is the specialized, on-demand skill invoked whenever the system encounters sensitive Bronze Layer data (e.g., internal corporate documents, raw data, or Personally Identifiable Information).
+*   **Core Mechanism:** Functioning as the "Silver-Layer Data Sanitization Pipeline," it strictly applies the **System 2 Lenses** (Rational-Scientific, System-Causal, and Human-Contextual) to filter and completely de-identify data. It abstracts specific corporate drama into "Generic Architectural Patterns" and explicitly transpiles the output into the standardized OKF v0.1 Markdown format.
+
+#### 4. `OKF v0.1 Compliance & Permissive Co.md` (The Data Bloodline)
+*   **Role:** The Data Engineering Specifications & Formatting Ministry.
+*   **System Function:** The definitive rulebook that dictates exactly how knowledge data must be generated and consumed by Agents across this ecosystem (Open Knowledge Format - OKF v0.1).
+*   **Core Mechanism:** It enforces the **Permissive Consumption Model**, making it a hard rule that the AI MUST NOT crash or reject files when encountering optional fields, unknown keys, or broken cross-links. It also establishes strict rules for reserved files (such as `index.md` for progressive disclosure without frontmatter, and `log.md` for historical tracking) to maintain the geometric order and integrity of the knowledge base.
+
+***
+
+**[The Synthesis]**
+By adopting these four pillars into your ecosystem, the repository transcends being a mere "collection of prompts" and evolves into a true **Metacognitive Architecture**:
+*   `AGENTS.md` bestows the system's soul and accountability.
+*   `harness_standards.md` establishes the unyielding governance structure.
+*   `okf-knowledge-extraction.md` provides the tactical tool to subtract bias and noise.
+*   `OKF Compliance` standardizes the universal language of truth. 
+
+หากคุณต้องการปรับแก้การใช้คำ (Wording) หรือให้ผมเน้นย้ำประเด็นไหนในเอกสารภาษาอังกฤษนี้เพิ่มเติม สามารถแจ้งมาได้เลยครับ!
 ## **2\. Component 1: Supported Data Types (Valid Inputs)**
 
 To maintain Zero-Cognitive-Load while ensuring ethical compliance, this framework strictly accepts only two valid classes of input data for direct Public AI execution. Treat this as your functional Data Contract:
