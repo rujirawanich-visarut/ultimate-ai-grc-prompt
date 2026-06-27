@@ -23,8 +23,6 @@ We utilize a localized **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** t
 * **\[GOLD\] OKF v0.1 SKUs:** Pure, Agent-Ready Data (Markdown \+ YAML). Completely stripped of sensitive telemetry and cognitive noise.  
 * **\[PUBLIC AI\] Execution:** The isolated, high-performance reasoning environment guarded by the Ultimate GRC Prompt.
 
-นี่คือฉบับแปลภาษาอังกฤษของ **Repository Architecture: The 4 Pillars of the Mind and System** ที่ปรับภาษาให้มีความเป็นมืออาชีพ ลุ่มลึก และรักษาโทนของ "สถาปัตยกรรมอภิปัญญา (Metacognitive Architecture)" ไว้อย่างครบถ้วน เพื่อให้คุณสามารถนำไปคัดลอกวางในไฟล์ `README.md` บน GitHub ได้ทันทีครับ:
-
 ***
 
 ### 📂 Repository Architecture: The 4 Pillars of the Mind and System
@@ -60,7 +58,6 @@ By adopting these four pillars into your ecosystem, the repository transcends be
 *   `okf-knowledge-extraction.md` provides the tactical tool to subtract bias and noise.
 *   `OKF Compliance` standardizes the universal language of truth. 
 
-หากคุณต้องการปรับแก้การใช้คำ (Wording) หรือให้ผมเน้นย้ำประเด็นไหนในเอกสารภาษาอังกฤษนี้เพิ่มเติม สามารถแจ้งมาได้เลยครับ!
 ## **2\. Component 1: Supported Data Types (Valid Inputs)**
 
 To maintain Zero-Cognitive-Load while ensuring ethical compliance, this framework strictly accepts only two valid classes of input data for direct Public AI execution. Treat this as your functional Data Contract:
